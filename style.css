@@ -27,7 +27,7 @@ label {
 }
 
 input {
-	width: 600px;
+	width: 622px;
 	height: 43px;
 	border-radius: 20px;
 	border: 1px solid #b9b9b960;
@@ -44,7 +44,7 @@ input:hover {
     display: flex;
     flex-direction: row;
     padding-top: 25px;
-    padding-left: 380px;
+    padding-left: 350px;
 }
 
 .bar_login {
