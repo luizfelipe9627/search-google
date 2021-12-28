@@ -79,13 +79,9 @@ input:hover {
     padding-bottom: 10px;
 } 
 
-.bottom2, .bottom3, .bottom4, .bottom5 {
-    padding-left: 35px;
-    padding-bottom: 10px;
-}
-
-.bottom6 {
-    padding-left: 35px;
+.bottom2, .bottom3, .bottom4, .bottom5, .bottom6 {
+    padding-left: 25px;
+    margin-bottom: 10px;
 }
 
 .content_bar {
