@@ -27,7 +27,7 @@ label {
 }
 
 input {
-	width: 622px;
+	width: 600px;
 	height: 43px;
 	border-radius: 20px;
 	border: 1px solid #b9b9b960;
@@ -44,7 +44,7 @@ input:hover {
     display: flex;
     flex-direction: row;
     padding-top: 25px;
-    padding-left: 350px;
+    padding-left: 370px;
 }
 
 .bar_login {
@@ -159,6 +159,10 @@ input:hover {
     .logo_google {
         padding: 20px;
     }
+
+    .bar_login {
+        margin-left: 5px;
+    }
     
     .bar_top_left {
         position: absolute;
@@ -184,7 +188,7 @@ input:hover {
    }
 
    .bottom2, .bottom3, .bottom4, .bottom5, .bottom6 {
-       padding-left: 23px;
+       padding-left: 10px;
    }
 
     label {
