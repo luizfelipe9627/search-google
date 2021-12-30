@@ -167,7 +167,7 @@ input:hover {
     .bar_top_left {
         position: absolute;
         padding: 0;
-        margin-left: 175px;
+        margin-left: 185px;
         margin-top: 17px;
     }
     .bar_top {
@@ -196,7 +196,7 @@ input:hover {
         display: flex;
         flex-direction: row;
         margin-bottom: 20px;
-        width: 355px;
+        width: 350px;
         margin-left: 20px;
     }
 
