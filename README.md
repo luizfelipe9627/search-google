@@ -1,7 +1,7 @@
 # Search Google
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)             
 
-<img src="https://github.com/luizfelipe9627/login-page/blob/main/images/search-google.png" alt="Site">
+<img src="https://github.com/luizfelipe9627/search-google/blob/main/images/search-google.png" alt="Site">
 
 # Resumo
 Como forma de práticar o HTML5 e CSS3 eu crei a área de pesquisa de google, tornando a mais parecida possivel da original.
