@@ -4,7 +4,7 @@
 <img src="https://github.com/luizfelipe9627/search-google/blob/main/images/search-google.png" alt="Site">
 
 # Resumo
-Como forma de práticar o HTML5 e CSS3 eu crei a área de pesquisa de google, tornando a mais parecida possivel da original.
+Como forma de práticar o HTML5 e CSS3 eu crei a área de pesquisa de google, tornando mais parecido possivel com a página original.
 
 # <a href="https://luizfelipe9627.github.io/search-google">Acesse o site</a>
 
