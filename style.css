@@ -37,7 +37,7 @@ input {
 }
 
 input:hover {
-	box-shadow: 2px 2px #b9b9b960;
+    box-shadow: 2px 2px 9px #b9b9b960;
 }
 
 .bar_top_left {
