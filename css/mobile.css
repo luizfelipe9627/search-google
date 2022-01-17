@@ -1,46 +1,42 @@
-/*
-    ÁREA RESPONSIVA ↴
-*/
-
 @media (max-width: 600px) {
 
     /*
         MENU GOOGLE ↴
     */
 
-    header .logo_google {
+    .logo_google {
         padding: 20px;
     }
 
-    header .bar_login {
+    .bar_login {
         margin-left: 2px;
     }
     
-    header .bar_top_left {
+    .bar_top_left {
         position: absolute;
         padding: 0;
-        margin-left: 185px;
+        margin-left: 45vw;
         margin-top: 17px;
     }
 
-    header .bar_top {
+    .bar_top {
         margin: 0;
         padding: 0;
         display: flex;
         flex-direction: row;
     }
 
-    header .bar_top_bottom {
+    .bar_top_bottom {
         font-size: 13px;
     }
-
-   header .bar_top_bottom a:first-child {
+    
+    .bar_top_bottom a:first-child {
        margin: 0;
        padding: 0;
        margin-left: 19px;
    }
 
-    header label {
+    label {
         padding: 0;
         display: flex;
         flex-direction: row;
@@ -49,11 +45,15 @@
         margin-left: 20px;
     }
 
+    input {
+        width: 90vw;
+    }
+
     /*
     ÁREA RESULTADO GOOGLE ↴
     */
 
-    article .content_bar {
+    .content_bar {
         display: flex;
         padding-left: 20px;
         padding-right: 0px;
@@ -63,7 +63,7 @@
         RODAPÉ ↴
     */
 
-    footer .content_bar {
+    .content_bar {
         display: flex;
         flex-wrap: wrap;
         padding-right: 0;
@@ -72,11 +72,11 @@
         text-align: left;
     }
 
-    footer .first_line {
+    .first_line {
         padding-left: 22px;
     }
     
-    footer .second_line {
+    .second_line {
         padding-left: 22px;
     }
 }
