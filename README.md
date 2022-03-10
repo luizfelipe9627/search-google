@@ -9,7 +9,7 @@ Eu recrei a área de pesquisa de google, tornando mais parecido possivel com a p
 ## 📑 Observação
 Este clone foi criado como um exercicio que foi dado pelo Bonieky do B7WEB para praticar HTML5 e CSS3.
 
-## <a href="https://luizfelipe9627.github.io/search-google">Acesse o site</a>
+### <a href="https://luizfelipe9627.github.io/search-google">Acesse o site</a>
 
 ### 💻 Tecnologias utilizadas
 
