@@ -6,10 +6,15 @@
 ## 📄 Descrição
 Eu recrei a área de pesquisa de google, tornando mais parecido possivel com a página original.
 
+### <a href="https://luizfelipe9627.github.io/search-google">Acesse o site</a>
+
 ## 📑 Observação
 Este clone foi criado como um exercicio que foi dado pelo Bonieky do B7WEB para praticar HTML5 e CSS3.
 
-### <a href="https://luizfelipe9627.github.io/search-google">Acesse o site</a>
+## 🔍 Layout
+Este layout foi criado por Google.
+
+### <a href="https://www.google.com/search?q=google&sxsrf=APq-WBtrMg-Ne8yiXDJ7cskv42Nfmz5zJA%3A1646900679099&ei=x7UpYqy0Bfva1sQPt6-3kA4&ved=0ahUKEwjss9SPj7v2AhV7rZUCHbfXDeIQ4dUDCA4&uact=5&oq=google&gs_lcp=Cgdnd3Mtd2l6EAMyBAgjECcyBAgjECcyBAgjECcyEAguELEDEIMBEMcBENEDEEMyCggAELEDEIMBEEMyBAgAEEMyCggAELEDEIMBEEMyCggAELEDEIMBEEMyCggAELEDEIMBEEMyCwgAEIAEELEDEIMBOgsIABCABBCxAxCwAzoOCAAQgAQQsQMQgwEQsAM6CAgAEIAEELADOhAILhCABBCxAxDIAxCwAxgAOg0ILhCABBDIAxCwAxgAOhMILhCABBCxAxDUAhDIAxCwAxgAOgcIIxDqAhAnOhQILhCABBCxAxCDARDHARDRAxDUAjoRCC4QgAQQsQMQgwEQxwEQ0QM6CAgAEIAEELEDOgsILhCABBCxAxCDAToICAAQsQMQgwE6BwgAELEDEENKBAhBGAFKBAhGGAFQ0w1Y7RJgvxNoAnAAeACAAX6IAeoEkgEDMC41mAEAoAEBsAEKyAERwAEB2gEGCAAQARgI&sclient=gws-wiz">Acesse o layout</a>
 
 ### 💻 Tecnologias utilizadas
 
