@@ -3,12 +3,15 @@
 
 <img src="https://github.com/luizfelipe9627/search-google/blob/main/images/search-google.png" alt="Site">
 
-## 📄 Resumo
-Como forma de práticar o HTML5 e CSS3 eu crei a área de pesquisa de google, tornando mais parecido possivel com a página original.
+## 📄 Descrição
+Eu recrei a área de pesquisa de google, tornando mais parecido possivel com a página original.
+
+## 📑 Observação
+Este clone foi criado como um exercicio que foi dado pelo Bonieky do B7WEB para praticar HTML5 e CSS3.
 
 ## <a href="https://luizfelipe9627.github.io/search-google">Acesse o site</a>
 
-## ✔️ Tecnologias utilizadas
+### 💻 Tecnologias utilizadas
 
 - ``HTML5``
 - ``CSS3``
@@ -28,7 +31,7 @@ Como forma de práticar o HTML5 e CSS3 eu crei a área de pesquisa de google, to
   </tr>
 </table>
 
-## 😄 Me siga nas redes sociais<br>
+## 📷 Me siga nas redes sociais<br>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luizfelipe9627/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
