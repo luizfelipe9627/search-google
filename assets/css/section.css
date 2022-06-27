@@ -1,0 +1,37 @@
+.content_bar {
+  padding-left: 10.625rem;
+  padding-right: 37.5rem;
+  padding-bottom: 1.875rem;
+}
+
+.content_bar a {
+  text-decoration: none;
+}
+
+.title_content {
+  color: #1924AD;
+  font-size: 1.4375rem;
+  padding-bottom: 0.3125rem;
+}
+
+.title_content:hover {
+  text-decoration: underline;
+}
+
+.text_content {
+  color: #635B60;
+}
+
+.link {
+  padding-top: 1.875rem;
+  color: #3B2E2A;
+  padding-bottom: 0.3125rem;
+}
+
+@media (max-width: 425px) {
+  .content_bar {
+    display: flex;
+    padding-left: 1.25rem;
+    padding-right: 0rem;
+  }
+}

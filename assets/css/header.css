@@ -1,0 +1,128 @@
+.logo_google {
+  padding: 1.875rem;
+}
+
+.bar_login {
+padding: 0.625rem;
+width: 6.25rem;
+background-color: #2c7de9;
+color: white;
+border: 0.0625rem solid #2c7de9;
+text-align: center;
+border-radius: .25rem;
+font-size: 0.875rem;
+}
+
+.bar_login:hover {
+ background-color: rgb(80, 148, 237);
+ border: 0.0625rem solid rgb(80, 148, 237);
+}
+
+.bar_engrenagem, .bar_google_apps {
+  padding-right: 1.5625rem;
+  padding-top: 0.625rem;
+}
+
+.bar_top {
+  display: flex;
+  flex-flow:  row wrap;
+  border-bottom: 0.0625rem solid #b9b9b960;
+}
+
+.bar_top a {
+  text-decoration: none;
+  color: #3f3f3f;
+}
+
+.bar_top_left {
+  display: flex;
+  flex-direction: row;
+  padding-top: 1.5625rem;
+  padding-left: 23.125rem;
+}
+
+.bar_top_bottom {
+  display: flex;
+  flex-direction: row;
+}
+
+label {
+  padding-top: 1.5625rem;
+}
+
+input {
+width: 45vw;
+height: 2.6875rem;
+border-radius: 1.25rem;
+border: 0.0625rem solid #b9b9b960;
+outline: none;
+padding-left: 1.25rem;
+font-size: 1.0625rem;
+}
+
+input:hover {
+  box-shadow: .125rem .125rem .5625rem #b9b9b960;
+}
+
+.bar_top_bottom a:first-child {
+  margin-left: 10.625rem;
+  border-bottom: .1875rem solid #2c7de9;
+  padding-bottom: .625rem;
+} 
+
+.bottom {
+  margin-left: 1.5625rem;
+  margin-bottom: .625rem;
+}
+
+@media (max-width: 425px) {
+  .logo_google {
+    padding: 1.25rem;
+  }
+
+  .bar_login {
+    margin-left: 0.125rem;
+  }
+  
+  .bar_top_left {
+    position: absolute;
+    padding: 0;
+    margin-left: 37vw;
+    margin-top: 1.0625rem;
+  }
+
+  .bar_top {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .bar_top_bottom {
+    font-size: 0.8125rem;
+  }
+  
+  .bar_top_bottom a:first-child {
+    margin: 0;
+    padding: 0;
+    margin-left: 1.1875rem;
+ }
+
+ .bar_top_bottom a:last-child {
+  display: none;
+ }
+
+  label {
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 1.25rem;
+    width: 22.5rem;
+    margin-left: 1.25rem;
+  }
+
+  input {
+    width: 90vw;
+  }
+}
+
