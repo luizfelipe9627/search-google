@@ -1,11 +1,5 @@
 .content_bar {
-  padding-left: 10.625rem;
-  padding-right: 37.5rem;
-  padding-bottom: 1.875rem;
-}
-
-.content_bar a {
-  text-decoration: none;
+  padding: 0 37.5rem 1.875rem 10.625rem;
 }
 
 .title_content {
@@ -23,15 +17,13 @@
 }
 
 .link {
-  padding-top: 1.875rem;
+  padding: 1.875rem 0 0.3125rem 0;
   color: #3B2E2A;
-  padding-bottom: 0.3125rem;
 }
 
-@media (max-width: 425px) {
+@media (min-width: 320px) and (max-width: 768px) {
   .content_bar {
     display: flex;
-    padding-left: 1.25rem;
-    padding-right: 0rem;
+    padding: 0 0 0 1.25rem;
   }
 }

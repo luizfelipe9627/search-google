@@ -3,14 +3,14 @@
 }
 
 .bar_login {
-padding: 0.625rem;
-width: 6.25rem;
-background-color: #2c7de9;
-color: white;
-border: 0.0625rem solid #2c7de9;
-text-align: center;
-border-radius: .25rem;
-font-size: 0.875rem;
+  padding: 0.625rem;
+  width: 6.25rem;
+  background-color: #2c7de9;
+  color: white;
+  border: 0.0625rem solid #2c7de9;
+  text-align: center;
+  border-radius: .25rem;
+  font-size: 0.875rem;
 }
 
 .bar_login:hover {
@@ -19,8 +19,7 @@ font-size: 0.875rem;
 }
 
 .bar_engrenagem, .bar_google_apps {
-  padding-right: 1.5625rem;
-  padding-top: 0.625rem;
+  padding: 0.625rem 1.5625rem 0 0;
 }
 
 .bar_top {
@@ -37,8 +36,7 @@ font-size: 0.875rem;
 .bar_top_left {
   display: flex;
   flex-direction: row;
-  padding-top: 1.5625rem;
-  padding-left: 23.125rem;
+  padding: 1.5625rem 0 0 23.125rem;
 }
 
 .bar_top_bottom {
@@ -51,13 +49,13 @@ label {
 }
 
 input {
-width: 45vw;
-height: 2.6875rem;
-border-radius: 1.25rem;
-border: 0.0625rem solid #b9b9b960;
-outline: none;
-padding-left: 1.25rem;
-font-size: 1.0625rem;
+  width: 45vw;
+  height: 2.6875rem;
+  border-radius: 1.25rem;
+  border: 0.0625rem solid #b9b9b960;
+  outline: none;
+  padding-left: 1.25rem;
+  font-size: 1.0625rem;
 }
 
 input:hover {
@@ -71,11 +69,10 @@ input:hover {
 } 
 
 .bottom {
-  margin-left: 1.5625rem;
-  margin-bottom: .625rem;
+  margin: 0 0 0.625rem 1.5625rem;
 }
 
-@media (max-width: 425px) {
+@media (min-width: 320px) and (max-width: 728px) {
   .logo_google {
     padding: 1.25rem;
   }
@@ -87,8 +84,7 @@ input:hover {
   .bar_top_left {
     position: absolute;
     padding: 0;
-    margin-left: 38vw;
-    margin-top: 1.0625rem;
+    margin: 1.0625rem 0 0 38vw;
   }
 
   .bar_top {
@@ -123,6 +119,25 @@ input:hover {
 
   input {
     width: 90vw;
+  }
+}
+
+@media (width: 768px) {
+  .bar_top_left  {
+    padding-left: 0;
+    margin-left: 2.5rem;
+  }
+
+  .bar_top_bottom a:first-child {
+    margin-left: 9.375rem;
+  }
+
+  .content_bar {
+    padding-left: 9.5rem !important;
+  }
+
+  .content {
+    max-width: 70vw;
   }
 }
 
