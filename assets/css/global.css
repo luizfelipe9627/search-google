@@ -7,3 +7,8 @@ body {
 body a {
   text-decoration: none;
 }
+
+input::-webkit-search-cancel-button {
+  position: absolute;
+  right: 0.9375rem;
+}

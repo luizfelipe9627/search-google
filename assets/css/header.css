@@ -47,7 +47,7 @@
   flex-direction: row;
 }
 
-label {
+form {
   padding-top: 1.5625rem;
 }
 
@@ -104,7 +104,7 @@ input:hover {
     padding: 0;
   }
 
-  label {
+  form {
     padding: 0;
     display: flex;
     margin: 0 auto 1.25rem auto;
