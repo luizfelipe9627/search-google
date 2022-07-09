@@ -1,5 +1,6 @@
 .content_bar {
-  padding: 0 37.5rem 1.875rem 10.625rem;
+  padding: 2.5rem 30vw 1.25rem 10.625rem;
+  flex-wrap: wrap;
 }
 
 .title_content {
@@ -14,16 +15,19 @@
 
 .text_content {
   color: #635B60;
+  margin-bottom: 1.875rem;
 }
 
 .link {
-  padding: 1.875rem 0 0.3125rem 0;
+  padding: 0;
   color: #3B2E2A;
 }
 
 @media (min-width: 320px) and (max-width: 768px) {
   .content_bar {
+    max-width: 75vw;
     display: flex;
-    padding: 0 0 0 1.25rem;
+    padding: 1.875rem 0.9375rem 0 2.5rem;
+    text-align: left;
   }
 }
