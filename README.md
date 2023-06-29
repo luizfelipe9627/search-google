@@ -6,7 +6,7 @@
 ## 📄 Descrição
 Eu recrei a área de pesquisa de google, tornando mais parecido possivel com a página original.
 
-### <a href="https://luizfelipe-search-google.netlify.app">Acesse o site</a>
+### <a href="https://luizfelipe9627-search-google.netlify.app">Acesse o site</a>
 
 ## 📑 Observação
 Este clone foi criado como um exercicio que foi dado pelo Bonieky do B7WEB para praticar HTML5 e CSS3.
